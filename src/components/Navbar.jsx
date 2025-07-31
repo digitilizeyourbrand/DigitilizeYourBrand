@@ -1,20 +1,10 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import { services } from "../lib/services";
 
 const Navbar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState(null);
-
-  const services = [
-    "Web Development",
-    "Search Engine Optimization",
-    "Online Reputation Management",
-    "Pay Per Click Marketing",
-    "Social Media Marketing",
-    "Graphic Design",
-    "YouTube Marketing",
-    "Video Production Service",
-  ];
 
   const handleLinkClick = () => {
     setIsDropdownOpen(false);
@@ -54,7 +44,7 @@ const Navbar = () => {
               }`}
             >
               <Link
-                to="/about-why-choose-omx"
+                to="/about-us"
                 className="block px-4 py-2 hover:bg-gray-100"
               >
                 About OMX
@@ -80,10 +70,10 @@ const Navbar = () => {
                 {services.map((service, idx) => (
                   <Link
                     key={idx}
-                    to={`/${service.toLowerCase().replace(/\s+/g, "-")}`}
+                    to={service.path}
                     className="block px-4 py-2 hover:bg-gray-100"
                   >
-                    {service}
+                    {service.label}
                   </Link>
                 ))}
               </div>
@@ -92,9 +82,6 @@ const Navbar = () => {
 
           <Link to="/blog" className="hover:text-yellow-500">
             Blog
-          </Link>
-          <Link to="/careers" className="hover:text-yellow-500">
-            Careers
           </Link>
           <Link to="/online-payment" className="hover:text-yellow-500">
             Online Payment
@@ -153,7 +140,7 @@ const Navbar = () => {
             {openDropdown === "about" && (
               <div className="bg-gray-100 pl-2">
                 <Link
-                  to="/about-why-choose-omx"
+                  to="/about-us"
                   onClick={handleLinkClick}
                   className="block px-6 py-2 border-t border-gray-300"
                 >
@@ -183,11 +170,11 @@ const Navbar = () => {
                 {services.map((service, idx) => (
                   <Link
                     key={idx}
-                    to={`/${service.toLowerCase().replace(/\s+/g, "-")}`}
+                    to={service.path}
                     onClick={handleLinkClick}
                     className="block px-6 py-2 border-t border-gray-300"
                   >
-                    {service}
+                    {service.label}
                   </Link>
                 ))}
               </div>
@@ -200,13 +187,6 @@ const Navbar = () => {
             className="border-b border-gray-300 px-4 py-2"
           >
             Blog
-          </Link>
-          <Link
-            to="/careers"
-            onClick={handleLinkClick}
-            className="border-b border-gray-300 px-4 py-2"
-          >
-            Careers
           </Link>
           <Link
             to="/online-payment"

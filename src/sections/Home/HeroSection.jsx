@@ -6,7 +6,8 @@ const HeroSection = () => {
       className="
         relative 
         h-[60vh]         /* Mobile: 60% of viewport height */
-        sm:h-screen      /* Tablet and up: full screen height */
+        sm:h-screen
+        md:h-[120vh]      /* Tablet and up: full screen height */
         w-full 
         overflow-hidden 
         text-white 
@@ -31,11 +32,12 @@ const HeroSection = () => {
           lg:left-1/2 lg:-translate-x-1/2 lg:w-auto lg:text-left
 
           flex flex-col font-bold text-6xl sm:text-5xl space-y-3
+          md:mb-20
         "
       >
         <span className="pl-0 text-5xl md:text-[6rem]">Crafting</span>
-        <span className="pl-8 text-5xl md:text-[6rem]">Digital</span>
-        <span className="pl-16 text-5xl md:text-[6rem]">Excellence</span>
+        <span className="pl-25 text-5xl md:text-[6rem]">Digital</span>
+        <span className="pl-50 text-5xl md:text-[6rem]">Excellence</span>
       </div>
 
       {/* Wavy Bottom Divider */}

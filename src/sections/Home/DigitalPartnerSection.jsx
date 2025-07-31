@@ -31,7 +31,7 @@ const DigitalPartnerSection = () => {
       </div>
 
       {/* Content */}
-      <div className="relative z-30 px-6 py-20 text-white max-w-4xl mx-auto text-center">
+      <div className="relative z-30 px-6 py-20 text-white max-w-4xl mx-auto text-center mt-15">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight">
           Your Digital Growth Partner in the World Full Of Competition.
         </h1>

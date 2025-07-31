@@ -1,16 +1,11 @@
 import React from "react";
-import HeroSection from "../components/HeroSection";
-import ServiceCard from "../components/ServiceCard";
-import Testimonials from "../components/Testimonials";
-import Clients from "../components/Clients";
-import CTASection from "../components/CTASection";
-import WavyDividerPage from "../components/WavyDividerPage";
-import ServiceSection from "../sections/ServiceSection";
-import OurProcessSection from "../sections/OurProcessSection";
-import FeedbackSection from "../sections/FeedBackSection";
-import LatestBlogsSection from "../sections/LatestBlogsSection";
-import DigitalPartnerSection from "../sections/DigitalPartnerSection";
-import OurClientsSection from "../sections/OurClientsSection";
+import HeroSection from "../sections/Home/HeroSection";
+import ServiceSection from "../sections/Home/ServiceSection";
+import OurProcessSection from "../sections/Home/OurProcessSection";
+import FeedbackSection from "../sections/Home/FeedBackSection";
+import LatestBlogsSection from "../sections/Home/LatestBlogsSection";
+import DigitalPartnerSection from "../sections/Home/DigitalPartnerSection";
+import OurClientsSection from "../sections/Home/OurClientsSection";
 
 export const Home = () => {
   return (

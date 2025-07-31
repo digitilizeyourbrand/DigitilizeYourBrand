@@ -1,5 +1,5 @@
 import React from "react";
-import ServiceCardSection from "../components/ServiceHelpers/ServiceCardSection";
+import ServiceCardSection from "../../components/ServiceHelpers/ServiceCardSection";
 
 const ServiceSection = () => {
   return (

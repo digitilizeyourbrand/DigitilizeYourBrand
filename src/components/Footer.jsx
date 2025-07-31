@@ -6,11 +6,8 @@ const Footer = () => {
   const quickLinks = [
     { name: "Home", link: "/" },
     { name: "About Us", link: "/about-us" },
-    { name: "Services", link: "/services" },
     { name: "Contact Us", link: "/contact-us" },
     { name: "Blog", link: "/blog" },
-    { name: "Gallery", link: "/gallery" },
-    { name: "FAQs", link: "/faqs" },
   ];
 
   const currentYear = new Date().getFullYear();
@@ -80,7 +77,7 @@ const Footer = () => {
               {services.map((service, index) => (
                 <li key={index}>
                   <Link
-                    to={service.link}
+                    to={service.path}
                     className="hover:text-gray-300 transition-colors duration-300"
                   >
                     {service.label}

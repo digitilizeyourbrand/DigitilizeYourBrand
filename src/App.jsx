@@ -15,11 +15,13 @@ import SMM from "./pages/Services/SMM";
 import GraphicDesign from "./pages/Services/GraphicDesign";
 import YoutubeMarketing from "./pages/Services/YoutubeMarketing";
 import VideoProduction from "./pages/Services/VideoProduction";
+import ScrollToTop from "./lib/ScrollToTop"
 
 
 const App = () => {
   return (
     <Router>
+      <ScrollToTop />
       <MainLayout>
         <Routes>
           <Route path="/" element={<Home />} />

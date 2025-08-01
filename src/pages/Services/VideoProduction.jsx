@@ -13,7 +13,7 @@ const features = [
     },
     {
         title: 'Trending and Exclusive',
-        description: 'The On-growing World of the Internet Creates New trends and sets new Bars every day to achieve the best Marketing Goals. Keeping Up With trends might be a Little Tough but Crucial Element of Marketing that OMX Specialises in. We keep up with the Current curves of the Latest Marketing Techniques using upgraded Technologies.',
+        description: 'The On-growing World of the Internet Creates New trends and sets new Bars every day to achieve the best Marketing Goals. Keeping Up With trends might be a Little Tough but Crucial Element of Marketing that DYB Specialises in. We keep up with the Current curves of the Latest Marketing Techniques using upgraded Technologies.',
     },
 ];
 
@@ -92,19 +92,19 @@ const VideoProduction = () => {
                                 From Introductory short videos For Brand Promotion to Informative Videos, Advertisements, and Engaging content creation For Brand development, Everything can Be Covered with Video Production services.
                             </p>
                             <p>
-                                OMX Technologies, being a prominent Digital Marketing Agency for More than a decade now, has earned a Well-known Reputation as a Provider of Top video production services in Pune.
+                                Digitlize Your Brand, being a prominent Digital Marketing Agency for More than a decade now, has earned a Well-known Reputation as a Provider of Top video production services in Pune.
                             </p>
                             <p>
                                 From Creative and animated Videos for <a href="https://omxtechnologies.com/social-media-marketing-company/" className="text-blue-600 hover:underline">Social Media Marketing</a> and informative content videos For <a href="https://omxtechnologies.com/youtube-marketing-in-pune/" className="text-blue-600 hover:underline">YouTube Marketing</a> to corporate Video Shoots, We have a Whole package to Uphold your Business.
                             </p>
                             <p>
-                                A Skilled and creative Team of videographers, broadcast-quality equipment, and a Luxurious video Production studio make OMX Technologies stand out and Enhance the Quality of our Video Production Services. This led us to a Top Position in a list of Reputed Video Production Companies Providing the Best video production services in Pune.
+                                A Skilled and creative Team of videographers, broadcast-quality equipment, and a Luxurious video Production studio make Digitlize Your Brand stand out and Enhance the Quality of our Video Production Services. This led us to a Top Position in a list of Reputed Video Production Companies Providing the Best video production services in Pune.
                             </p>
                         </div>
                         
-                        {/* Why Choose OMX? Section */}
+                        {/* Why Choose DYB? Section */}
                         <h2 className="text-3xl font-extrabold leading-tight mt-4">
-                            Why Choose OMX?
+                            Why Choose DYB?
                         </h2>
                         
                         {/* Features */}

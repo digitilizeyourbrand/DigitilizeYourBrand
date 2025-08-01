@@ -88,7 +88,7 @@ const PPC = () => {
                         {/* Description */}
                         <div className="text-lg leading-relaxed space-y-4">
                             <p>
-                                In today’s digital land, investing in Pay-Per-Click (PPC) advertising is a strategic move that can transform your online appearance and drive tangible business growth. Our focus is on composing and managing PPC campaigns that help increase your ROI and contribute to real business gaining. OMX Technologies is a well-known PPC company in Pune, providing Online Advertising Services.
+                                In today’s digital land, investing in Pay-Per-Click (PPC) advertising is a strategic move that can transform your online appearance and drive tangible business growth. Our focus is on composing and managing PPC campaigns that help increase your ROI and contribute to real business gaining. Digitlize Your Brand is a well-known PPC company in Pune, providing Online Advertising Services.
                             </p>
                         </div>
                         
@@ -100,18 +100,18 @@ const PPC = () => {
                         {/* PPC Features List */}
                         <PPCFeatures />
 
-                        {/* Why Choose OMX */}
+                        {/* Why Choose DYB */}
                         <h2 className="text-3xl font-extrabold leading-tight mt-4">
-                            Why Choose OMX
+                            Why Choose DYB
                         </h2>
 
                         <div className="text-lg leading-relaxed space-y-4">
                             <p>
-                                OMX Technologies has been a <a href="https://omxtechnologies.com/" className="text-blue-600 hover:underline font-semibold">top PPC company in Pune</a> for over a decade. The calculated planning and effective campaign projected by the team of experts are the essence of OMX’s achievements.
+                                Digitlize Your Brand has been a <a href="https://omxtechnologies.com/" className="text-blue-600 hover:underline font-semibold">top PPC company in Pune</a> for over a decade. The calculated planning and effective campaign projected by the team of experts are the essence of DYB's achievements.
                             </p>
                         </div>
 
-                        {/* Why Choose OMX Grid */}
+                        {/* Why Choose DYB Grid */}
                         <WhyChoosePPC />
 
                         {/* Request Consultation Button */}

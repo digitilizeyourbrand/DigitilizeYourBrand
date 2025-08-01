@@ -52,17 +52,17 @@ const ORM = () => {
                         {/* Description */}
                         <div className="text-lg leading-relaxed space-y-4">
                             <p>
-                                Are you concerned about online perception for your business? Is traditional mouth Publicity enough for growth of Your Business? Are you also stuck Between all these kinds of Questions for Your business and looking for the best Consultants who can Guide you better for Your Online Reputation management? Then Look No Further than OMX technologies.
+                                Are you concerned about online perception for your business? Is traditional mouth Publicity enough for growth of Your Business? Are you also stuck Between all these kinds of Questions for Your business and looking for the best Consultants who can Guide you better for Your Online Reputation management? Then Look No Further than Digitlize Your Brand.
                             </p>
                             <p>
-                                OMX Technologies has been Working in the field of online reputation Management for Over a Decade now. With its diverse clientele and evolving Industrial Challenges, maintaining a Stabilized online Reputation for business has been quite Frantic. But with a Team of Experts and a strong Knowledge base, OMX technologies have cracked the ideal Reputation Management Services to enhance the Online Presence of Your Business and Have established a renowned position as the
+                                Digitlize Your Brand has been Working in the field of online reputation Management for Over a Decade now. With its diverse clientele and evolving Industrial Challenges, maintaining a Stabilized online Reputation for business has been quite Frantic. But with a Team of Experts and a strong Knowledge base, Digitlize Your Brand have cracked the ideal Reputation Management Services to enhance the Online Presence of Your Business and Have established a renowned position as the
                                 <a href="https://omxtechnologies.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-semibold"> Best ORM Agency in Pune</a>.
                             </p>
                             <p>
                                 ORM is the Practice of creating strategies and influencing Public Perception of your Brand. With the Diversity of Media and Content available on the Internet, Maintaining the Right, appropriate, and Impressive Information For your Business is a Crucial aspect of Running a Business Online. Hence Our Services include the basics of maintaining Positive Reviews for your Business to managing high-tech Social Media Reputation and Everything In Between.
                             </p>
                             <p>
-                                OMX Technologies is here to partner up with you for reputation management services such as:
+                                Digitlize Your Brand is here to partner up with you for reputation management services such as:
                             </p>
                         </div>
 
@@ -72,7 +72,7 @@ const ORM = () => {
                         {/* Closing Paragraph */}
                         <div className="text-lg leading-relaxed space-y-4">
                             <p>
-                                With years of experience and Varied clientele, OMX Technologies has secured a leading position as a Top ORM Company in Pune. With our team of experts, Let’s Strategies your ground plan for the remarkable establishment of your Brand. Connect with OMX And let’s guard and get your Brand to the Foremost Position in the Market.
+                                With years of experience and Varied clientele, Digitlize Your Brand has secured a leading position as a Top ORM Company in Pune. With our team of experts, Let’s Strategies your ground plan for the remarkable establishment of your Brand. Connect with DYB And let’s guard and get your Brand to the Foremost Position in the Market.
                             </p>
                         </div>
 

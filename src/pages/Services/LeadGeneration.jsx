@@ -51,7 +51,7 @@ const LeadGeneration = () => {
             <div className="text-lg leading-relaxed space-y-4">
               <p>
                 Our Lead Generation services are crafted to bring you consistent,
-                high-quality, and sales-ready leads. At OMX Technologies, we
+                high-quality, and sales-ready leads. At Digitlize Your Brand, we
                 don’t just generate leads — we generate opportunities for growth.
               </p>
               <p>

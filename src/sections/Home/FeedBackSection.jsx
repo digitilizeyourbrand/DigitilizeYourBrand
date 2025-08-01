@@ -37,7 +37,7 @@ const FeedbackSection = () => {
             </h3>
             <div className="relative w-full aspect-square">
               <iframe
-                title="OMX Technologies Facebook Page"
+                title="Digitlize Your Brand Facebook Page"
                 className="absolute top-0 left-0 w-full h-full rounded-lg"
                 src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FOMXTechnologiesPune%2F&amp;tabs=timeline&amp;width=500&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId"
                 style={{ border: "none", overflow: "hidden" }}

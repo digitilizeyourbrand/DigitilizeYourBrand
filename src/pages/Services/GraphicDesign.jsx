@@ -21,7 +21,7 @@ const GraphicDesign = () => {
                         Graphic Design Company in Pune
                     </h1>
                     <p className="text-lg text-left animate-fade-in-up delay-200">
-                        OMX Technologies: Where Creativity Meets Innovation in Graphic Design.
+                        Digitlize Your Brand: Where Creativity Meets Innovation in Graphic Design.
                     </p>
                 </div>
             </section>
@@ -52,10 +52,10 @@ const GraphicDesign = () => {
                         {/* Description */}
                         <div className="text-lg leading-relaxed space-y-4">
                             <p>
-                                At OMX Technologies, is leading <a href="https://omxtechnologies.com/2022/06/27/different-areas-of-graphic-design/" className="text-blue-600 hover:underline">Most Creative Graphics Design Company in Pune</a> specializing in Logo & Branding , Brochure & Product Catalogs, Sales Promotion Material ,Social Media Designs and Infographics. Our team of talented experts and creative thinkers create attractive designs that connect with your target market and promote your brand or business.
+                                At Digitlize Your Brand, is leading <a href="https://omxtechnologies.com/2022/06/27/different-areas-of-graphic-design/" className="text-blue-600 hover:underline">Most Creative Graphics Design Company in Pune</a> specializing in Logo & Branding , Brochure & Product Catalogs, Sales Promotion Material ,Social Media Designs and Infographics. Our team of talented experts and creative thinkers create attractive designs that connect with your target market and promote your brand or business.
                             </p>
                             <p>
-                                For more than ten years, OMX Technologies has provided graphic design services to clients. Our <strong>Best graphic designer in pune</strong> deals with a broad range of requirements, from branding and logo development to website design and advertisement material.
+                                For more than ten years, Digitlize Your Brand has provided graphic design services to clients. Our <strong>Best graphic designer in pune</strong> deals with a broad range of requirements, from branding and logo development to website design and advertisement material.
                             </p>
                         </div>
                         

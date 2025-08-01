@@ -72,7 +72,7 @@ const YoutubeMarketing = () => {
                 Everybody is more interested in watching videos instead of
                 spending time reading. YouTube, which has already gained market
                 share in recent times, has become one of the most popular
-                platforms for video sharing. We at OMX Technologies is an
+                platforms for video sharing. We at Digitlize Your Brand is an
                 all-round YouTube Marketing Company In Pune for all kinds of
                 business needs. Our service is focused on providing engagement
                 and conversion of potential viewers into clients.
@@ -81,7 +81,7 @@ const YoutubeMarketing = () => {
                 YouTube sits on the top of all video streaming sites. It is open
                 to all and gives a business opportunity to showdown products and
                 generate business leads. We create a wide range of promotional
-                videos depending on the needs of our clients. OMX Technologies
+                videos depending on the needs of our clients. Digitlize Your Brand
                 is one of the leading{" "}
                 <a
                   href="https://omxtechnologies.com/"
@@ -112,7 +112,7 @@ const YoutubeMarketing = () => {
                 extensive reviews of anything. YouTube, which is now a
                 celebrated web-based social networking stage, is additionally
                 getting to be well known for making organizations and the
-                callings common before the world. We at OMX Technologies deliver
+                callings common before the world. We at Digitlize Your Brand deliver
                 restrictive{" "}
                 <a
                   href="https://omxtechnologies.com/2022/06/27/15-tips-of-youtube-for-business-promotion/"

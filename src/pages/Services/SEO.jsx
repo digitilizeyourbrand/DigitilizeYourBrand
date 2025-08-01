@@ -58,7 +58,7 @@ const SEO = () => {
                                 To take any business high on a success graph, we need good products and services along with a master marketing plan. In the same way, to do Digital business, one must have a very efficient Digital marketing plan.
                             </p>
                             <p>
-                                One of the elements of multifaceted Digital Marketing is Search Engine Optimization. It allows the target audience to connect with the brand organically. We at OMX Technologies provide the{' '}
+                                One of the elements of multifaceted Digital Marketing is Search Engine Optimization. It allows the target audience to connect with the brand organically. We at Digitlize Your Brand provide the{' '}
                                 <a href="https://omxtechnologies.com/website-seo-services/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-semibold">
                                     top SEO services in Pune
                                 </a>{' '}
@@ -95,11 +95,11 @@ const SEO = () => {
                         {/* Feature Blocks */}
                         <SEOFeatures />
 
-                        {/* Why OMX Technologies? */}
+                        {/* Why Digitlize Your Brand? */}
                         <div className="text-lg leading-relaxed space-y-4">
-                            <h3 className="text-2xl font-bold text-gray-800 mt-6">Why OMX Technologies?</h3>
+                            <h3 className="text-2xl font-bold text-gray-800 mt-6">Why Digitlize Your Brand?</h3>
                             <p>
-                                OMX Technologies, the{' '}
+                                Digitlize Your Brand, the{' '}
                                 <a href="https://omxtechnologies.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline font-semibold">
                                     best SEO Consulting Services in Pune
                                 </a>{' '}

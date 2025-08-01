@@ -32,10 +32,10 @@ const SEOFeatures = () => {
     <section className="mt-12 px-4 md:px-0">
       <header className="mb-6">
         <h2 className="text-3xl font-bold text-gray-800">
-          SEO Services Offerings at OMX Technologies
+          SEO Services Offerings at Digitlize Your Brand
         </h2>
         <p className="text-lg text-gray-700 mt-2">
-          OMX Technologies offers result-driven SEO services in Pune, including:
+          Digitlize Your Brand offers result-driven SEO services in Pune, including:
         </p>
       </header>
 

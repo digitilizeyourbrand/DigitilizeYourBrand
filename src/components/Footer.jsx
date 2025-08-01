@@ -137,7 +137,7 @@ const Footer = () => {
       <div className=" py-4 text-center">
         <div className="max-w-6xl mx-auto px-4">
           <p className="text-sm">
-            Copyright © {currentYear} OMX Technologies. All Rights Reserved.
+            Copyright © {currentYear} Digitlize Your Brand. All Rights Reserved.
           </p>
         </div>
       </div>

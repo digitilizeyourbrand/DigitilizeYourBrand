@@ -36,7 +36,7 @@ const DigitalPartnerSection = () => {
           Your Digital Growth Partner in the World Full Of Competition.
         </h1>
         <p className="mt-6 text-sm sm:text-base md:text-lg font-light">
-          OMX has been providing Online marketing services with its teams of Experts
+          DYB has been providing Online marketing services with its teams of Experts
           for over a decade now. The successful results that we have achieved
           throughout these years are our main source of motivation. Our dedication,
           innovation and commitment to deliver the best service possible, makes us

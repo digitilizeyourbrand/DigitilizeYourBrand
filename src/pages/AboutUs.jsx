@@ -10,7 +10,7 @@ const AboutUs = () => {
 
         {/* Main Content */}
         <div className="relative z-10 p-4">
-          <h1 className="text-white px-20 text-5xl font-bold">About OMX</h1>
+          <h1 className="text-white px-20 text-5xl font-bold">About Digitlize Your Brand</h1>
         </div>
 
         {/* Wave Shape Divider SVG */}
@@ -35,17 +35,17 @@ const AboutUs = () => {
       <section className="w-full py-16 bg-gradient-to-b from-white to-gray-50">
         <div className="container mx-auto px-4">
           <h1 className="text-2xl md:text-3xl font-bold text-center mb-6">
-            OMX - Your Online Marketing Experts
+            DYB - Your Online Marketing Experts
           </h1>
           <div className="max-w-3xl mx-auto space-y-4 text-center">
             <p>
-              OMX Technologies is a progressive and innovative digital companion
+              Digitlize Your Brand is a progressive and innovative digital companion
               in crafting virtual answers for enterprises. We are a trusted and
               award-winning digital marketing agency in Pune, Chhatrapati
               Sambhaji Nagar, and Nashik.
             </p>
             <p>
-              OMX is an Eminent{" "}
+              DYB is an Eminent{" "}
               <strong>Best Digital Marketing Company in Pune</strong> with a
               diverse clientele. We focus on remarkable brand development,
               especially for medical professionals and institutions, while
@@ -58,7 +58,7 @@ const AboutUs = () => {
               1200+ businesses grow digitally.
             </p>
             <p>
-              At OMX, we operate as a cohesive digital marketing agency where
+              At DYB, we operate as a cohesive digital marketing agency where
               creativity is our passion, hard work and intelligence fuel our
               perseverance, and our success drives us to remain persistent.
             </p>
@@ -68,7 +68,7 @@ const AboutUs = () => {
 
       <section className="w-full py-16 bg-gray-100">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-8">Why OMX?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Why DYB?</h2>
           <div className="max-w-xl mx-auto space-y-2 text-center text-lg font-medium">
             <p>
               <strong>A</strong>bsolute Dedication
@@ -91,7 +91,7 @@ const AboutUs = () => {
           <div>
             <h2 className="text-2xl font-semibold mb-2">Absolute Dedication</h2>
             <p>
-              The team at OMX Technologies is passionate, creative, and highly
+              The team at Digitlize Your Brand is passionate, creative, and highly
               motivated. Our process of project analysis and customized planning
               motivates us to enhance the quality of output. We’re devoted to
               client satisfaction and it shows in our work.
@@ -100,7 +100,7 @@ const AboutUs = () => {
           <div>
             <h2 className="text-2xl font-semibold mb-2">Beyond Limits</h2>
             <p>
-              Going beyond the limits is what sets OMX apart. With over a decade
+              Going beyond the limits is what sets DYB apart. With over a decade
               of industry experience, we craft the best strategies to reach your
               ideal customers while navigating digital regulations — securing
               our place as a top <strong>Lead Generation Agency in Pune</strong>
@@ -142,7 +142,7 @@ const AboutUs = () => {
           <div className="flex justify-center">
             <img
               src="https://omxtechnologies.com/wp-content/uploads/2024/10/vission3.png"
-              alt="Vision at OMX Technologies"
+              alt="Vision at Digitlize Your Brand"
               className="w-64 h-auto"
             />
           </div>
@@ -164,7 +164,7 @@ const AboutUs = () => {
           <div className="flex justify-center">
             <img
               src="https://omxtechnologies.com/wp-content/uploads/2024/10/mission.png"
-              alt="Mission at OMX Technologies"
+              alt="Mission at Digitlize Your Brand"
               className="w-64 h-auto"
             />
           </div>

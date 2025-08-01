@@ -15,13 +15,13 @@ const ServiceSection = () => {
           </h1>
           <div className="space-y-3 text-gray-800 text-lg">
             <p>
-              OMX Technologies is an innovative and Creative digital partner in
+              Digitlize Your Brand is an innovative and Creative digital partner in
               Crafting Digital Solutions for Business. We have been a trusted
               and award-winning Digital Marketing Company in Pune, Nashik, and
               Chhatrapati Sambhaji Nagar.
             </p>
             <p>
-              OMX is an Eminent Digital Marketing Agency in Pune with a
+              DYB is an Eminent Digital Marketing Agency in Pune with a
               Significant and diverse Clientele, Specializing in Illustrious
               Brand Development, especially for Medical Professionals and
               institutions. Furthermore, we Make sure to provide Full-spectrum
@@ -33,7 +33,7 @@ const ServiceSection = () => {
               Helped 1000+ businesses to achieve digital Growth.
             </p>
             <p>
-              At OMX, we function as a cohesive digital marketing agency in
+              At DYB, we function as a cohesive digital marketing agency in
               Pune, where creativity is our passion, Our hard work, and
               intelligence fuels our perseverance and our success inspires us to
               be Persistent.

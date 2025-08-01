@@ -114,17 +114,6 @@ const Footer = () => {
             <div className="space-y-2 text-sm">
               <p>
                 <a
-                  href="https://maps.google.com/?q=Office No. 4, Ground Floor, Sai Vihar Co-Op Society, Behind Sai Baba Mandir, Karve Nagar, Pune, Maharashtra 411052"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-gray-300 transition-colors duration-300"
-                >
-                  Office No. 4, Ground Floor, Sai Vihar Co-Op Society, Behind
-                  Sai Baba Mandir, Karve Nagar, Pune, Maharashtra 411052
-                </a>
-              </p>
-              <p>
-                <a
                   href="tel:+919104999222"
                   className="hover:text-gray-300 transition-colors duration-300"
                 >

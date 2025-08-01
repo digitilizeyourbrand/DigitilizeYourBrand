@@ -1,26 +1,26 @@
 const ServiceCardSection = () => {
   const services = [
     {
-      title: "Website Development",
-      href: "/",
+      title: "Lead Generation",
+      href: "/lead-generation",
       img: "https://omxtechnologies.com/wp-content/uploads/2024/10/web-development-3-768x768-compressed_11zon.webp",
-      alt: "Web Development",
+      alt: "Lead Generation",
     },
     {
       title: "Search Engine Optimization",
-      href: "https://omxtechnologies.com/seo-company-in-pune/",
+      href: "/search-engine-optimization",
       img: "https://omxtechnologies.com/wp-content/uploads/2024/10/SEO-4-768x768-compressed_11zon.webp",
       alt: "SEO",
     },
     {
       title: "Social Media Marketing",
-      href: "https://omxtechnologies.com/social-media-marketing-company/",
+      href: "/social-media-marketing",
       img: "https://omxtechnologies.com/wp-content/uploads/2024/10/Social-Media-Marketing-2-768x768-compressed_11zon.webp",
       alt: "Social Media Marketing",
     },
     {
       title: "Online Reputation Management",
-      href: "https://omxtechnologies.com/online-reputation-management-orm/",
+      href: "/online-reputation-management",
       img: "https://omxtechnologies.com/wp-content/uploads/2024/10/reputation-copy-768x768-compressed_11zon.webp",
       alt: "ORM",
     },
@@ -47,7 +47,7 @@ const ServiceCardSection = () => {
         ))}
       </div>
       <a
-            href="https://omxtechnologies.com/our-digital-marketing-services/"
+            href="/"
             className="inline-block mt-4 px-6 py-2 bg-black text-white font-semibold rounded-full md:hidden"
           >
             Explore More

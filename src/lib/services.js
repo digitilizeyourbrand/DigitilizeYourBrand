@@ -1,5 +1,5 @@
 export const services = [
-  { label: "Web Development", path: "/web-development" },
+  { label: "Lead Generation", path: "/lead-generation" },
   { label: "Search Engine Optimization", path: "/search-engine-optimization" },
   { label: "Online Reputation Management", path: "/online-reputation-management" },
   { label: "Pay Per Click Marketing", path: "/pay-per-click-marketing" },

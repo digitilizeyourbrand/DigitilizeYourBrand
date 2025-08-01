@@ -1,4 +1,4 @@
-import heroImg from "../../assets/about-us-hero.webp"
+import heroImg from "../assets/about-us-hero.webp"
 const AboutUs = () => {
   return (
     <div className=" text-black">

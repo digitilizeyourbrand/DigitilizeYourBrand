@@ -35,9 +35,9 @@ const HeroSection = () => {
           md:mb-20
         "
       >
-        <span className="pl-0 text-5xl md:text-[6rem]">Crafting</span>
-        <span className="pl-25 text-5xl md:text-[6rem]">Digital</span>
-        <span className="pl-50 text-5xl md:text-[6rem]">Excellence</span>
+        <span className="pl-0 text-4xl md:text-[6rem]">Crafting</span>
+        <span className="pl-15 md:pl-25 text-4xl md:text-[6rem]">Digital</span>
+        <span className="pl-30 md:pl-50 text-4xl md:text-[6rem]">Excellence</span>
       </div>
 
       {/* Wavy Bottom Divider */}

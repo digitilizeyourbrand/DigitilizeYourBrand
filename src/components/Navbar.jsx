@@ -30,33 +30,9 @@ const Navbar = () => {
           </Link>
 
           {/* About Us Dropdown */}
-          <div
-            className="relative"
-            onMouseEnter={() => setOpenDropdown("about")}
-            onMouseLeave={() => setOpenDropdown(null)}
-          >
-            <button className="hover:text-yellow-500">About Us</button>
-            <div
-              className={`absolute left-0 top-full w-48 bg-white shadow-lg border border-gray-200 rounded-md transition-opacity duration-300 ease-in-out ${
-                openDropdown === "about"
-                  ? "opacity-100 visible"
-                  : "opacity-0 invisible"
-              }`}
-            >
-              <Link
-                to="/about-us"
-                className="block px-4 py-2 hover:bg-gray-100"
-              >
-                About OMX
-              </Link>
-              <Link
-                to="/founder-and-ceo"
-                className="block px-4 py-2 hover:bg-gray-100"
-              >
-                Founder and CEO
-              </Link>
-            </div>
-          </div>
+          <Link to="/about-us" className="hover:text-yellow-500">
+            About Us
+          </Link>
 
           {/* Services Dropdown */}
           <div
@@ -130,32 +106,9 @@ const Navbar = () => {
           </Link>
 
           {/* About */}
-          <div className="border-b border-gray-300">
-            <button
-              onClick={() => toggleDropdown("about")}
-              className="w-full text-left font-semibold px-4 py-2"
-            >
-              About
-            </button>
-            {openDropdown === "about" && (
-              <div className="bg-gray-100 pl-2">
-                <Link
-                  to="/about-us"
-                  onClick={handleLinkClick}
-                  className="block px-6 py-2 border-t border-gray-300"
-                >
-                  About OMX
-                </Link>
-                <Link
-                  to="/founder-and-ceo"
-                  onClick={handleLinkClick}
-                  className="block px-6 py-2 border-t border-gray-300"
-                >
-                  Founder and CEO
-                </Link>
-              </div>
-            )}
-          </div>
+          <Link to="/about-us" className="hover:text-yellow-500">
+            About Us
+          </Link>
 
           {/* Services */}
           <div className="border-b border-gray-300">

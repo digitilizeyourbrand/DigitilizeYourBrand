@@ -106,7 +106,7 @@ const Navbar = () => {
           </Link>
 
           {/* About */}
-          <Link to="/about-us" className="hover:text-yellow-500">
+          <Link to="/about-us" className="border-b border-gray-300 px-4 py-2">
             About Us
           </Link>
 

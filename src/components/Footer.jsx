@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { services } from "../lib/services";
-
+import logo from "../assets/logo_black.png";
 const Footer = () => {
   const quickLinks = [
     { name: "Home", link: "/" },
@@ -36,9 +36,9 @@ const Footer = () => {
           {/* About Us */}
           <div className="flex flex-col space-y-4">
             <img
-              src="" // Use the imported logo variable
+              src={logo} 
               alt="Footer Logo"
-              className="w-40 h-auto mb-4"
+              className="w-full h-auto mb-4"
             />
             <p className="text-sm leading-relaxed">
               A prominent Digital Marketing Agency for more than a decade, has
@@ -112,22 +112,12 @@ const Footer = () => {
               Contact Us
             </h3>
             <div className="space-y-2 text-sm">
-              <p>
                 <a
-                  href="tel:+919104999222"
+                  href="mailto:inquirydyb@gmail.com"
                   className="hover:text-gray-300 transition-colors duration-300"
                 >
-                  (+91) 9104999222
+                  inquirydyb@gmail.com
                 </a>
-              </p>
-              <p>
-                <a
-                  href="mailto:sales@omxtechnologies.com"
-                  className="hover:text-gray-300 transition-colors duration-300"
-                >
-                  sales@omxtechnologies.com
-                </a>
-              </p>
             </div>
           </div>
         </div>

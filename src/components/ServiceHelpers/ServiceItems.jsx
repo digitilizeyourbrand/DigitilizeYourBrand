@@ -59,8 +59,7 @@ export default function ServiceItems() {
           className="w-full h-48 object-cover rounded-md mb-6 shadow-md"
         />
         <h3 className="text-3xl font-bold mb-2">Contact Now</h3>
-        <p className="text-xl">(+91) 9104999222</p>
-        <p className="text-xl">sales@omxtechnologies.com</p>
+        <p className="text-xl">inquirydyb@gmail.com</p>
       </div>
     </div>
   );

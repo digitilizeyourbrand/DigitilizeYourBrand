@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { services } from "../lib/services";
-
+import logo from "../assets/logo_transparent_cropped.png";
 const Navbar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState(null);
@@ -39,8 +39,12 @@ const Navbar = () => {
       <header className="w-full fixed top-0 left-0 z-50 bg-white">
         <div className="max-w-screen-xl mx-auto flex justify-between items-center px-4 h-16">
           {/* Logo */}
-          <Link to="/" className="text-lg font-bold text-yellow-500">
-            LOGO
+          <Link to="/" className="flex items-center justifuy-center">
+            <img
+                        src={logo}
+                        alt="Footer Logo"
+                        className="w-30 h-auto object-cont'"
+                      />
           </Link>
 
           {/* Desktop Navigation */}

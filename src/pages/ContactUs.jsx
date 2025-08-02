@@ -87,27 +87,12 @@ const ContactUs = () => {
           <div className="mb-2">
             <span className="font-semibold">Mail :</span>{" "}
             <a
-              href="mailto:sales@omxtechnologies.com"
+              href="mailto:inquirydyb@gmail.com"
               className="text-blue-300 underline"
             >
-              sales@omxtechnologies.com
+              inquirydyb@gmail.com
             </a>
           </div>
-
-          <p className="mt-4 text-sm text-gray-600">
-            <strong>Note :</strong> For more details about vacancies please
-            contact HR: <br />
-            <a href="tel:+919881430717" className="text-blue-300 underline">
-              +91-9881430717
-            </a>{" "}
-            /{" "}
-            <a
-              href="mailto:hr@omxtechnologies.com"
-              className="text-blue-300 underline"
-            >
-              hr@omxtechnologies.com
-            </a>
-          </p>
         </div>
       </div>
     </div>

@@ -74,17 +74,6 @@ const ContactUs = () => {
           </h2>
 
           <div className="mb-2">
-            <span className="font-semibold">Call Us :</span>{" "}
-            <a href="tel:+919104999222" className="text-blue-300 underline">
-              +91-9104999222
-            </a>{" "}
-            /{" "}
-            <a href="tel:+918669422292" className="text-blue-300 underline">
-              +91-8669422292
-            </a>
-          </div>
-
-          <div className="mb-2">
             <span className="font-semibold">Mail :</span>{" "}
             <a
               href="mailto:inquirydyb@gmail.com"
